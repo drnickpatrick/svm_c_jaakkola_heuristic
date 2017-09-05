@@ -1,0 +1,6 @@
+#!/bin/bash
+
+./jakolla abaloneData.svm > res.txt
+
+diff res.txt et.txt
+

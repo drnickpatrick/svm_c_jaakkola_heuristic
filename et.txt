@@ -1,0 +1,1 @@
+Jaakkola:gamma = 0.29535 sigma = 1.30112
